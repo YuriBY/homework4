@@ -1,0 +1,430 @@
+
+.city {
+
+    width: 100%;
+    height: 950px;
+    background: url(../img/image2.png);
+}
+
+.city__header {
+
+    width: 100%;
+    height: 75px;
+    background: black;
+    margin: 0px;
+    position: relative;
+
+}
+
+.AX {
+
+    position: absolute;
+    width: 51.81px;
+    height: 30.69px;
+    left: 115.28px;
+    top: 22.46px;
+    color: white;
+    font-size: 28px;
+}
+
+.IT {
+
+    position: absolute;
+    width: 32.17px;
+    height: 30.69px;
+    left: 156px;
+    top: 22.46px;
+    color: #EC7979;
+    font-size: 28px;
+
+}
+
+.marker1 {
+
+    position: absolute;
+    left: 50%;
+    right: 40%;
+    top: 0.02%;
+    bottom: 98.63%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    padding-top: 25px;
+
+}
+
+.marker2 {
+
+    position: absolute;
+    left: 58%;
+    right: 32%;
+    top: 0.02%;
+    bottom: 98.63%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    padding-top: 25px;
+
+}
+
+.marker3 {
+
+    position: absolute;
+    left: 66%;
+    right: 24%;
+    top: 0.02%;
+    bottom: 98.63%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    padding-top: 25px;
+
+}
+
+.marker4 {
+
+    position: absolute;
+    left: 74%;
+    right: 16%;
+    top: 0.02%;
+    bottom: 98.63%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    padding-top: 25px;
+
+}
+
+.marker5 {
+
+    position: absolute;
+    left: 82%;
+    right: 8%;
+    top: 0.02%;
+    bottom: 98.63%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    padding-top: 25px;
+
+}
+
+
+
+.image-filter {
+
+    width: 100%;
+	height: 128%;
+	position: absolute;
+	top: 75px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: #000;
+	opacity: 0.6;
+}
+
+
+.AX2 {
+
+    position: absolute;
+    left: 170px;
+    color: #FFFFFF;
+    top: 290px;
+    font-size: 48px;
+}
+
+.IT2 {
+
+    position: absolute;
+    left: 230px;
+    color: #EC7979;
+    top: 290px;
+    font-size: 48px;
+   
+}
+
+.city__main__text__main {
+
+position: absolute;
+left: 170px;
+right: 44.37%;
+top: 390px;
+bottom: 89.15%;
+width: 450px;
+height: 168px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
+
+hr {
+
+position: absolute;
+width: 170px;
+height: 0px;
+left: 170px;
+top: 560px;
+
+border: 1px solid #FFFFFF;
+
+}
+
+.city__main__lorem {
+
+    position: absolute;
+    left: 170px;
+    top: 610px;
+    width: 270px;
+    height: 42px;
+    color: white;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+}
+
+.city__main__btn {
+
+    position: absolute;
+    left: 170px;
+    width: 270px;
+    height: 60px;
+     
+    top: 690px;
+       
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    background: rgba(255, 255, 255, 0.05);
+ 
+    border: 2px solid #FFFFFF;
+    
+     
+}
+
+.city__form {
+
+position: absolute;
+width: 470px;
+height: 450px;
+left: 870px;
+top: 283px;
+
+background: white;
+border-radius: 10px;
+}
+
+.city__form__name {
+
+    position: absolute;
+    left: 11.28%;
+    right: 10.64%;
+    top: 5%;
+    bottom: 80%;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #333333;
+    
+
+}
+
+.city__form__name span {
+    color: #EC7979;
+}
+
+.city__form__input__name {
+
+    position: absolute;
+    width: 370px;
+    height: 38px;
+    left: 50px;
+    top: 135px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+text-align: left;
+
+color: #BDBDBD;
+border: 1px solid #BDBDBD;
+border-top: none;
+border-left: none;
+border-right: none;
+
+    
+
+}
+
+
+.city__form__input__email {
+
+    position: absolute;
+    width: 370px;
+    height: 38px;
+    left: 50px;
+    top: 198px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+text-align: left;
+
+color: #BDBDBD;
+border: 1px solid #BDBDBD;
+border-top: none;
+border-left: none;
+border-right: none;
+    
+
+}
+
+.city__form__input__pass {
+
+    position: absolute;
+    width: 370px;
+    height: 38px;
+    left: 50px;
+    top: 260px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+text-align: left;
+
+color: #BDBDBD;
+border: 1px solid #BDBDBD;
+border-top: none;
+border-left: none;
+border-right: none;
+
+
+    }
+
+.city__form__main__button {
+
+position: absolute;
+left: 0;
+right: 0;
+
+bottom: 0%;
+width: 470px;
+height: 60px;
+background: #EC7979;
+border-radius: 0px 0px 10px 10px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+padding-top: 21px;
+
+text-align: center;
+
+color: white;
+
+}
+
+.footer {
+
+box-sizing: border-box;
+position: absolute;
+width: 100%;
+height: 140px;
+left: 0px;
+top: 951px;
+
+background: #F8EFEF;
+}
+
+.footer__text h4 {
+
+margin-left: 170px;
+padding-top: 15px;
+width: 470px;
+height: 60px;
+text-align: left;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+
+
+color: #333333;
+
+
+}
+
+.footer__text h5 {
+
+    margin-left: 170px;
+    margin-top: 18px;
+    width: 470px;
+    height: 60px;
+    text-align: left;
+    
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+
+
+color: #86878B;
+
+    
+    }
+    
+.footer__signs {
+
+position: absolute;
+left: 750px;
+top: 10.42%;
+bottom: 10.42%;
+
+
+
+}
+
